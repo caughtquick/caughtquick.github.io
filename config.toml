@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://symphonious-conkies-343ea0.netlify.app"
 languageCode = "en-us"
 title = "English 2 Final: Charlemagne"
 theme = "paper"
