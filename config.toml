@@ -1,4 +1,4 @@
-baseURL = "https://caughtquick.github.io/english"
+baseURL = "https://example.org"
 languageCode = "en-us"
 title = "English 2 Final: Charlemagne"
-theme = "paper"
+theme = "ananke"
